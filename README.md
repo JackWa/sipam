@@ -1,1 +1,1 @@
-# sipam
+# sipam - a simple IPAM
